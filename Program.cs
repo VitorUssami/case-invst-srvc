@@ -5,7 +5,7 @@ using System.Globalization;
 
 
 //Obs: Voce é livre para implementar na linguagem de sua preferência, desde que respeite as funcionalidades e saídas existentes, além de aplicar os conceitos solicitados.
-
+//to run: dotnet run
 namespace app
 {
     class Program
